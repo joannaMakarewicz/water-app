@@ -1,8 +1,8 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![cover](https://joannamakarewicz.github.io/water-app/water.png)
 
-# WTF Webpack Starter Kit 
+# Water application
 
-Simple toolkit for your static websites development.
+Simple application for measure how many glasses of water you drink every day.
 
 ## How to use it?
 
