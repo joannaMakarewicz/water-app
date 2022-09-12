@@ -4,10 +4,36 @@
 @import "modules/hello.scss";
 
 body {
-  background: $wtf;
+  background:white;
   color: #fff;
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
 }
+
+.heading {
+  font-size:55px;
+}
+
+.main {
+  background:#3767AD;
+  padding:47px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  width:375;
+  height:812px;
+}
+
+
+.button__remove {
+  display:block;
+  background:#3767AD;
+  color:white;
+  border:none;
+
+}
+
+
