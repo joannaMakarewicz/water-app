@@ -2,17 +2,16 @@
 
 # Water application
 
+## Description
 Simple application for measure how many glasses of water you drink every day.
 
-## How to use it?
+You can check this Project here: https://joannamakarewicz.github.io/water-app/
 
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
+## Languages
 
-## Available scripts
+Languages used to build Project:
 
-`npm run start` - runs development mode
-
-`npm run build` - runs build process for production
-
-`npm run publish` - runs build process and publish the page using `gh-pages` branch
-
+HTML
+CSS
+SCSS
+JS.
